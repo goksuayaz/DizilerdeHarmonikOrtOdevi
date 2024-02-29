@@ -1,0 +1,1 @@
+Dizideki Sayilarin Harmonik Ortalamasi
